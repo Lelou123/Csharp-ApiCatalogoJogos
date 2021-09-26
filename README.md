@@ -1,4 +1,4 @@
-# Csharp-Api Catalogo de Jogos :ga:
+# Csharp-Api Catalogo de Jogos 🎮:
 
 Bem vindo a minha API web feita utilizando os conhecimentos básicos de .Net e Arquitetura de sistemas obtidos no bootcamp da Decolar Tech. Essa API mostra como funcioan uma API real de serviços web na prática.
 
